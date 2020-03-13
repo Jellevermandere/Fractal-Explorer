@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 8296e7f885212463aae889799876e4d4
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -4671965471970844506
+    second: Front Shell|antenneAction
+  - first:
+      74: -4671387011985015670
+    second: Front Shell|Empty.001Action
+  - first:
+      74: -556240665387910554
+    second: Front Shell|EmptyAction
+  - first:
+      74: 4183774364617454514
+    second: Front Shell|exhaustAction
+  - first:
+      74: 6933247243319507232
+    second: Front Shell|Front ShellAction
+  - first:
+      74: 5108730743431989328
+    second: Front Shell|InsideAction
+  - first:
+      74: -3835060625267228116
+    second: Front Shell|L_WingAction
+  - first:
+      74: 769645467854375473
+    second: Front Shell|lanternAction
+  - first:
+      74: -2778628719207354391
+    second: Front Shell|R_WingAction
+  - first:
+      74: 9076429804930305145
+    second: Front Shell|SunAction
+  - first:
+      74: -6329584298355363963
+    second: Front Shell|TailAction
+  - first:
+      74: 4460621525951420233
+    second: Inside|antenneAction
+  - first:
+      74: -2956235416932784923
+    second: Inside|Empty.001Action
+  - first:
+      74: 6070063935898724015
+    second: Inside|EmptyAction
+  - first:
+      74: -9143523565478238837
+    second: Inside|exhaustAction
+  - first:
+      74: 772901233185300588
+    second: Inside|Front ShellAction
+  - first:
+      74: 8699129057615574519
+    second: Inside|InsideAction
+  - first:
+      74: 819576315462814952
+    second: Inside|L_WingAction
+  - first:
+      74: -756451943914991936
+    second: Inside|lanternAction
+  - first:
+      74: 529768420181354504
+    second: Inside|R_WingAction
+  - first:
+      74: 4021507121175610314
+    second: Inside|SunAction
+  - first:
+      74: -534102515236809696
+    second: Inside|TailAction
+  - first:
+      74: 3897547639783252245
+    second: R_Wing|antenneAction
+  - first:
+      74: -6209192762018801996
+    second: R_Wing|Empty.001Action
+  - first:
+      74: -7130232664343106278
+    second: R_Wing|EmptyAction
+  - first:
+      74: -3073857336775394453
+    second: R_Wing|exhaustAction
+  - first:
+      74: -7696511279428706769
+    second: R_Wing|Front ShellAction
+  - first:
+      74: -3103843272704075528
+    second: R_Wing|InsideAction
+  - first:
+      74: -8516887663835151324
+    second: R_Wing|L_WingAction
+  - first:
+      74: 4113070221779074418
+    second: R_Wing|lanternAction
+  - first:
+      74: -3781847168842463510
+    second: R_Wing|R_WingAction
+  - first:
+      74: 273598563880661813
+    second: R_Wing|SunAction
+  - first:
+      74: 1347704583094148856
+    second: R_Wing|TailAction
+  - first:
+      74: -8834155260052789444
+    second: exhaust|antenneAction
+  - first:
+      74: 8045208859810089032
+    second: exhaust|Empty.001Action
+  - first:
+      74: 2612769343041974453
+    second: exhaust|EmptyAction
+  - first:
+      74: -7621853134720378433
+    second: exhaust|exhaustAction
+  - first:
+      74: -438552999390640736
+    second: exhaust|Front ShellAction
+  - first:
+      74: -1197698673997238516
+    second: exhaust|InsideAction
+  - first:
+      74: 4406209507525001001
+    second: exhaust|L_WingAction
+  - first:
+      74: 5517797776437383190
+    second: exhaust|lanternAction
+  - first:
+      74: 8396981866519400246
+    second: exhaust|R_WingAction
+  - first:
+      74: -747755761548478656
+    second: exhaust|SunAction
+  - first:
+      74: 8532953920484277889
+    second: exhaust|TailAction
+  - first:
+      74: 9035309268478785560
+    second: antenne|antenneAction
+  - first:
+      74: -301560563490361136
+    second: antenne|Empty.001Action
+  - first:
+      74: -3104637413538571884
+    second: antenne|EmptyAction
+  - first:
+      74: 9129650081360776613
+    second: antenne|exhaustAction
+  - first:
+      74: -7273064329115149793
+    second: antenne|Front ShellAction
+  - first:
+      74: -11285756556964973
+    second: antenne|InsideAction
+  - first:
+      74: -4269385686982784369
+    second: antenne|L_WingAction
+  - first:
+      74: 8137973560229959259
+    second: antenne|lanternAction
+  - first:
+      74: 5737313250839295264
+    second: antenne|R_WingAction
+  - first:
+      74: 484116794078537134
+    second: antenne|SunAction
+  - first:
+      74: -7990398839010523421
+    second: antenne|TailAction
+  - first:
+      74: 1368037804468569141
+    second: Tail|antenneAction
+  - first:
+      74: -5739670784099871732
+    second: Tail|Empty.001Action
+  - first:
+      74: 5761452258910182820
+    second: Tail|EmptyAction
+  - first:
+      74: 6342482750580183205
+    second: Tail|exhaustAction
+  - first:
+      74: -1357728712975709175
+    second: Tail|Front ShellAction
+  - first:
+      74: -6239841575603138284
+    second: Tail|InsideAction
+  - first:
+      74: 6034582036366523794
+    second: Tail|L_WingAction
+  - first:
+      74: -2912355624952750351
+    second: Tail|lanternAction
+  - first:
+      74: -2303516710819661952
+    second: Tail|R_WingAction
+  - first:
+      74: 2912533494987691101
+    second: Tail|SunAction
+  - first:
+      74: 8791024487959501415
+    second: Tail|TailAction
+  - first:
+      74: 7631013315207504917
+    second: L_Wing|antenneAction
+  - first:
+      74: -2941671430324018777
+    second: L_Wing|Empty.001Action
+  - first:
+      74: 8406002144600376620
+    second: L_Wing|EmptyAction
+  - first:
+      74: 8483120523774436434
+    second: L_Wing|exhaustAction
+  - first:
+      74: 5684146462034045911
+    second: L_Wing|Front ShellAction
+  - first:
+      74: 3085263962894503597
+    second: L_Wing|InsideAction
+  - first:
+      74: 2730890178684726199
+    second: L_Wing|L_WingAction
+  - first:
+      74: -5040744874100021061
+    second: L_Wing|lanternAction
+  - first:
+      74: 1182296174941588306
+    second: L_Wing|R_WingAction
+  - first:
+      74: -7127138204599979022
+    second: L_Wing|SunAction
+  - first:
+      74: 3407618508022550960
+    second: L_Wing|TailAction
+  - first:
+      74: 565776288692078314
+    second: lantern|antenneAction
+  - first:
+      74: 4384726763540669564
+    second: lantern|Empty.001Action
+  - first:
+      74: -2448008375743223500
+    second: lantern|EmptyAction
+  - first:
+      74: -4741719920167358568
+    second: lantern|exhaustAction
+  - first:
+      74: 1482966501132885069
+    second: lantern|Front ShellAction
+  - first:
+      74: 3202830808582418534
+    second: lantern|InsideAction
+  - first:
+      74: 6944103991531006694
+    second: lantern|L_WingAction
+  - first:
+      74: 7301993928973627852
+    second: lantern|lanternAction
+  - first:
+      74: 6173898182999288108
+    second: lantern|R_WingAction
+  - first:
+      74: 2918762665290193231
+    second: lantern|SunAction
+  - first:
+      74: 8433861414066374506
+    second: lantern|TailAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SpaceShip
+    second: {fileID: 2100000, guid: 059fe61c329904e9cbb41ead51d5497b, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
