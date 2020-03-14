@@ -18,3 +18,5 @@ https://jellever.itch.io/fractal-collector
 Distance function library : https://www.iquilezles.org/index.html , 
 Initial inspiration : https://github.com/HackerPoet/MarbleMarcher , 
 Raymarcher in Unity : https://www.youtube.com/playlist?list=PL3POsQzaCw53iK_EhOYR39h1J9Lvg-m-g
+
+This project is licensed under the terms of the MIT license.
