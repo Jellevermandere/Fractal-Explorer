@@ -8,8 +8,10 @@ The shader creates the image the camera sees and the c# script is used to calcul
 
 ## Explainer video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0jwkZKDOzfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/0jwkZKDOzfc
+
 ## game download:
+https://jellever.itch.io/fractal-collector
 
 ## references:
 
