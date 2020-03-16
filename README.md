@@ -4,7 +4,8 @@ A raymarcher with working unity physics and fractals
 ## Workings
 
 The raymarcher is created as both a shader, and a c# script. 
-The shader creates the image the camera sees and the c# script is used to calculate the colliions with the player character.
+The shader creates the image the camera sees and the c# script is used to calculate the collisions with the player character.
+
 
 ## Explainer video:
 
